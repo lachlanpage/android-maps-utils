@@ -5,9 +5,9 @@ dependencies {
 }
 
 android {
-    compileSdkVersion 25
+    compileSdkVersion 28
 
-    buildToolsVersion '25.0.2'
+    buildToolsVersion '28.0.0'
 
     resourcePrefix 'amu_'
 
